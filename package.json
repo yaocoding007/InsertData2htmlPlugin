@@ -1,5 +1,5 @@
 {
-  "name": "insert-data-2-html-plugin",
+  "name": "insert-script-to-html-plugin",
   "version": "1.0.0",
   "description": "insert data 2 html by script",
   "main": "./dist/index.js",
@@ -16,6 +16,11 @@
   },
   "author": "liluyao",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaocoding007/InsertData2htmlPlugin"
+  },
+  "homepage": "https://github.com/yaocoding007/InsertData2htmlPlugin",
   "dependencies": {
     "node-fetch": "^2.6.1"
   },
